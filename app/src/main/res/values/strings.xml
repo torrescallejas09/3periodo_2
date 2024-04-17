@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentosEstaticos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_fragmento_1">Este es el fragmento 1</string>
+    <string name="texto_indicacion_campo">Porfavor digite un texto breve</string>
+    <string name="texto_placeholder">Digite un texto aquí</string>
+    <string name="texto_btn_enviar">Enviar datos al fragmento 2</string>
+    <string name="texto_fragmento_2">Este es el fragmento recibido</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
